@@ -40,7 +40,37 @@ A simple **shopping app** built with **Flutter** featuring:
 
 ## 🖼️ Screenshots
 
-> Add screenshots of each screen here (Welcome, Sign Up, Sign In, Home).
+### Welcome Screen (EN)
+
+![Welcome EN](assets/readme_screenshots/welcome-en.png)
+
+### Welcome Screen (AR)
+
+![Welcome AR](assets/readme_screenshots/welcome-ar.png)
+
+### Sign Up Screen (EN)
+
+![Sign Up EN](assets/readme_screenshots/signup-en.png)
+
+### Sign Up Screen (AR)
+
+![Sign Up AR](assets/readme_screenshots/signup-ar.png)
+
+### Sign In Screen (Errors)
+
+![Sign In Errors](assets/readme_screenshots/signin-errors.png)
+
+### Sign In Screen (Error Example)
+
+![Sign In Error](assets/readme_screenshots/signin-error.png)
+
+### Home Screen
+
+![Home Screen](assets/readme_screenshots/home.png)
+
+### Hot Offers
+
+![Hot Offers](assets/readme_screenshots/hot-offers.png)
 
 ---
 
