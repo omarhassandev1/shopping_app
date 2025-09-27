@@ -57,7 +57,7 @@ A simple **shopping app** built with **Flutter** featuring:
 
 ```
 lib/
-│── l10n/                  # localization files
+│── l10n/                 
 │── screens/
 │   ├── welcome_screen.dart
 │   ├── signup_screen.dart
@@ -75,7 +75,7 @@ lib/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flutter-shopping-app.git
+   git clone https://github.com/omarhassandev1/shopping_app.git
    cd flutter-shopping-app
    ```
 
